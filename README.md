@@ -1,9 +1,9 @@
 # Desh_Portfolio
 Data Scientist
 
-# [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj)
-Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-Scraped over 1000 job descriptions from glassdoor using python and selenium
-Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-Built a client facing API using flask
+# [Project 1: Co2Emission_Multilinear_Regression_Project: Project Overview](https://github.com/deshapriyamukherjee/Co2Emission_Multilinear_Regression_Project.git)
+Data collection from the source.
+Data Exploration and Visualization.
+Data Cleaning, Outlier Detection, Skewness Checking,Correlated independent variables ommiting, Dealing with Contineous and Categorical Independent Variables, Proper Scaling, Making Linear Regression Model and Finally Checking Different Types of Errors (MAE,RMSE,MSE) and Best fitted Model to Check the R-Squared.
+Engineered features from the text of each job description to quantify the value companies put on python, excel.
+
