@@ -17,3 +17,13 @@ Data Scientist
 5. The F1score is the harmonic average of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0. It is a good way to show that a classifer has a good value for both recall and precision.
 6. And finally, we can tell the average accuracy for this classifier is the average of the f1-score for both labels, which is 0.76 in our case.
 6. Engineered features from the text of each job description to quantify the value companies put on python, excel.
+
+# [Project 3: Cancer Cell Detection using Support Vector Machine: Project Overview](https://github.com/deshapriya-mukherjee/Cancer-Cell-Detection.git)
+## The dataset consists of several hundred human cell sample records, each of which contains the values of a set of cell characteristics. I use SVM (Support Vector Machines from Scikit-learn) to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
+1. Data collection from the source.
+2. Data Exploration and Visualization.
+3. Data Cleaning, Proper Scaling, Making Support Vector Machines from Scikit-learn Model and Finally Checking accuracy of classifier is to look at confusion matrix.
+4. The classifier correctly predicted almost 133 and wrongly only 4.So, it has done a good job in predicting the correct cancer cell detection. we can interpret these numbers as the count of true positives, false positives, true negatives, and false negatives.
+5. The F1score is the harmonic average of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0. It is a good way to show that a classifer has a good value for both recall and precision.
+6. And finally, we can tell the average accuracy for this classifier is the average of the f1-score for both labels, which is 0.97 in our case.
+6. Engineered features from the text of each job description to quantify the value companies put on python, excel.
