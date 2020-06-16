@@ -8,8 +8,7 @@ Data Scientist
 3. Data Cleaning, Outlier Detection, Skewness Checking,Correlated independent variables ommiting, Dealing with Contineous and Categorical Independent Variables, Proper Scaling, Making Linear Regression Model and Finally Checking Different Types of Errors (MAE,RMSE,MSE) and Best fitted Model to Check the R-Squared.
 4. Engineered features from the text of each job description to quantify the value companies put on python, excel.
 
-# [Project 2: Customer Churn Project with Logistic Regression Machine Learning Model: Project Overview]
-(https://github.com/deshapriya-mukherjee/Customer-Churn-Project.git)
+# [Project 2: Customer Churn Project with Logistic Regression Machine Learning Model: Project Overview](https://github.com/deshapriya-mukherjee/Customer-Churn-Project.git)
 
 # Built the model using Logistic Regression from Scikit-learn package. This function implements logistic regression and can use different numerical optimizers to find parameters.
 1. Data collection from the source.
